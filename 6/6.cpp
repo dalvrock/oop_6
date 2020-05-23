@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-	setlocale(LC_ALL, "ru");
+	setlocale(LC_ALL, "ua");
 
 
 	List<int> lst;
